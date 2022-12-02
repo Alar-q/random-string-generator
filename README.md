@@ -1,2 +1,3 @@
 # random-string-generator
-node index.js
+npm install
+npm start
