@@ -1,3 +1,3 @@
 # random-string-generator
-npm install
+npm install  
 npm start
