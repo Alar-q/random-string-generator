@@ -2,7 +2,7 @@
 npm install  
 npm start
 
-
+В Node есть встроенный модуль crypto!
 Решение получше: 
 ```js
 // test генерации UUIDv4
